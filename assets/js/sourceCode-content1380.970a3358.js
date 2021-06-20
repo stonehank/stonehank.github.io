@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2142:function(p){p.exports=JSON.parse('{"size":177}')}}]);
