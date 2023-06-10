@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{894:function(n,t,o){"use strict";o.r(t);var e={props:{uniqStr:{type:String,default:decodeURI(window.location.origin+window.location.pathname)}}},r=o(28),component=Object(r.a)(e,(function(){return(0,this._self._c)("vue-bbs",{attrs:{"uniq-str":this.uniqStr}})}),[],!1,null,"7616c24f",null);t.default=component.exports}}]);
