@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/310-Minimum-Height-Trees", {data:[{slug:"310-Minimum-Height-Trees"}],fetch:{},mutations:void 0});

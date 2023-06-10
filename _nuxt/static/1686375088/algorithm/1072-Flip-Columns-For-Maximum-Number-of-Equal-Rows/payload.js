@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows", {data:[{slug:"1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows"}],fetch:{},mutations:void 0});

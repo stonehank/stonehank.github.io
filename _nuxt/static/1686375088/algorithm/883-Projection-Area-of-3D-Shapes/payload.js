@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/883-Projection-Area-of-3D-Shapes", {data:[{slug:"883-Projection-Area-of-3D-Shapes"}],fetch:{},mutations:void 0});

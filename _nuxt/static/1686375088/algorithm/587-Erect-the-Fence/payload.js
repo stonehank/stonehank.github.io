@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/587-Erect-the-Fence", {data:[{slug:"587-Erect-the-Fence"}],fetch:{},mutations:void 0});

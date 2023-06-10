@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/274-H-Index", {data:[{slug:"274-H-Index"}],fetch:{},mutations:void 0});

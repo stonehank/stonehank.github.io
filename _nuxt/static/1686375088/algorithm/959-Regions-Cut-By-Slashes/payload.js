@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/959-Regions-Cut-By-Slashes", {data:[{slug:"959-Regions-Cut-By-Slashes"}],fetch:{},mutations:void 0});

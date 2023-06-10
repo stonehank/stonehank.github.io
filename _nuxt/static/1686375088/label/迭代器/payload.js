@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E8%BF%AD%E4%BB%A3%E5%99%A8", {data:[{slug:"迭代器"}],fetch:{},mutations:void 0});

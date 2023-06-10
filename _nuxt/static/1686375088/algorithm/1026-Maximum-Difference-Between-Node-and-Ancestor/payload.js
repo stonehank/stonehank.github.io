@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1026-Maximum-Difference-Between-Node-and-Ancestor", {data:[{slug:"1026-Maximum-Difference-Between-Node-and-Ancestor"}],fetch:{},mutations:void 0});

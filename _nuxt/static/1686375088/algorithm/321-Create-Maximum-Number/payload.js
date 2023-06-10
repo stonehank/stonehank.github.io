@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/321-Create-Maximum-Number", {data:[{slug:"321-Create-Maximum-Number"}],fetch:{},mutations:void 0});

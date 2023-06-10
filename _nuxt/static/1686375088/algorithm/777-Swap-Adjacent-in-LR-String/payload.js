@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/777-Swap-Adjacent-in-LR-String", {data:[{slug:"777-Swap-Adjacent-in-LR-String"}],fetch:{},mutations:void 0});

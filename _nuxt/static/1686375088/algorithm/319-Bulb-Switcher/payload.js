@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/319-Bulb-Switcher", {data:[{slug:"319-Bulb-Switcher"}],fetch:{},mutations:void 0});

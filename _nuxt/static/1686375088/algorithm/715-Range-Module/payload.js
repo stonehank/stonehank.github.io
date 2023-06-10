@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/715-Range-Module", {data:[{slug:"715-Range-Module"}],fetch:{},mutations:void 0});

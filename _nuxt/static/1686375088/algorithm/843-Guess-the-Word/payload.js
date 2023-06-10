@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/843-Guess-the-Word", {data:[{slug:"843-Guess-the-Word"}],fetch:{},mutations:void 0});

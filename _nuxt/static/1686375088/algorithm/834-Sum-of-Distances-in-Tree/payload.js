@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/834-Sum-of-Distances-in-Tree", {data:[{slug:"834-Sum-of-Distances-in-Tree"}],fetch:{},mutations:void 0});

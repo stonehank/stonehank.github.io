@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/456-132-Pattern", {data:[{slug:"456-132-Pattern"}],fetch:{},mutations:void 0});

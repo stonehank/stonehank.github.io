@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/218-The-Skyline-Problem", {data:[{slug:"218-The-Skyline-Problem"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/839-Similar-String-Groups", {data:[{slug:"839-Similar-String-Groups"}],fetch:{},mutations:void 0});

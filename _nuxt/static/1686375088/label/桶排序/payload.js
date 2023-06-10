@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%A1%B6%E6%8E%92%E5%BA%8F", {data:[{slug:"桶排序"}],fetch:{},mutations:void 0});

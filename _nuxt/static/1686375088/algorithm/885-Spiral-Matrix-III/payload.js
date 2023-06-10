@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/885-Spiral-Matrix-III", {data:[{slug:"885-Spiral-Matrix-III"}],fetch:{},mutations:void 0});

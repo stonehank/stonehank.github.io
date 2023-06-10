@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/493-Reverse-Pairs", {data:[{slug:"493-Reverse-Pairs"}],fetch:{},mutations:void 0});

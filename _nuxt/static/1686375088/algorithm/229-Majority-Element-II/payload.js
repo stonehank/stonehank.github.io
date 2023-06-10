@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/229-Majority-Element-II", {data:[{slug:"229-Majority-Element-II"}],fetch:{},mutations:void 0});

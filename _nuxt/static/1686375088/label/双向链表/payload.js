@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8", {data:[{slug:"双向链表"}],fetch:{},mutations:void 0});

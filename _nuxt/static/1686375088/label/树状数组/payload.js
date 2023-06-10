@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84", {data:[{slug:"树状数组"}],fetch:{},mutations:void 0});

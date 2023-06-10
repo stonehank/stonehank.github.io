@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/996-Number-of-Squareful-Arrays", {data:[{slug:"996-Number-of-Squareful-Arrays"}],fetch:{},mutations:void 0});

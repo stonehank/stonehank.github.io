@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%89%8D%E7%BC%80%E5%92%8C", {data:[{slug:"前缀和"}],fetch:{},mutations:void 0});

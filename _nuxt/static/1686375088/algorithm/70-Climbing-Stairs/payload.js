@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/70-Climbing-Stairs", {data:[{slug:"70-Climbing-Stairs"}],fetch:{},mutations:void 0});

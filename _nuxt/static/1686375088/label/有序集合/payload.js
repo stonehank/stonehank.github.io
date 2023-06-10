@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88", {data:[{slug:"有序集合"}],fetch:{},mutations:void 0});

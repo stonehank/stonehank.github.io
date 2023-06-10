@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/785-Is-Graph-Bipartite", {data:[{slug:"785-Is-Graph-Bipartite"}],fetch:{},mutations:void 0});

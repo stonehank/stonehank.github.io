@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/857-Minimum-Cost-to-Hire-K-Workers", {data:[{slug:"857-Minimum-Cost-to-Hire-K-Workers"}],fetch:{},mutations:void 0});

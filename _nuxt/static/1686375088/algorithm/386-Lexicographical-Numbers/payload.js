@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/386-Lexicographical-Numbers", {data:[{slug:"386-Lexicographical-Numbers"}],fetch:{},mutations:void 0});

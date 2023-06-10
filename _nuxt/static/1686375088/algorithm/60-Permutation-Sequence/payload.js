@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/60-Permutation-Sequence", {data:[{slug:"60-Permutation-Sequence"}],fetch:{},mutations:void 0});

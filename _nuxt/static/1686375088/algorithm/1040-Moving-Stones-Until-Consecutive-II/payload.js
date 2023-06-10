@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1040-Moving-Stones-Until-Consecutive-II", {data:[{slug:"1040-Moving-Stones-Until-Consecutive-II"}],fetch:{},mutations:void 0});

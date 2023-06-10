@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/947-Most-Stones-Removed-with-Same-Row-or-Column", {data:[{slug:"947-Most-Stones-Removed-with-Same-Row-or-Column"}],fetch:{},mutations:void 0});

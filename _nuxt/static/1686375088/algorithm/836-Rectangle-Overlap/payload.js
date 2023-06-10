@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/836-Rectangle-Overlap", {data:[{slug:"836-Rectangle-Overlap"}],fetch:{},mutations:void 0});

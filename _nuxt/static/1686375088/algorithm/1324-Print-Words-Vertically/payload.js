@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1324-Print-Words-Vertically", {data:[{slug:"1324-Print-Words-Vertically"}],fetch:{},mutations:void 0});

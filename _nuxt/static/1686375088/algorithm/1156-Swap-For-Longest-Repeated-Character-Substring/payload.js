@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1156-Swap-For-Longest-Repeated-Character-Substring", {data:[{slug:"1156-Swap-For-Longest-Repeated-Character-Substring"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%95%B0%E6%8D%AE%E6%B5%81", {data:[{slug:"数据流"}],fetch:{},mutations:void 0});

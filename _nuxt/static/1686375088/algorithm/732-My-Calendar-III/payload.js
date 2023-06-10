@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/732-My-Calendar-III", {data:[{slug:"732-My-Calendar-III"}],fetch:{},mutations:void 0});

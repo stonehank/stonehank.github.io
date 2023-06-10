@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/763-Partition-Labels", {data:[{slug:"763-Partition-Labels"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E9%98%9F%E5%88%97", {data:[{slug:"队列"}],fetch:{},mutations:void 0});

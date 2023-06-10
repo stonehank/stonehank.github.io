@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/975-Odd-Even-Jump", {data:[{slug:"975-Odd-Even-Jump"}],fetch:{},mutations:void 0});

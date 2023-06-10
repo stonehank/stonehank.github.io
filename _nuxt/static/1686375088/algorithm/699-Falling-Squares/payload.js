@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/699-Falling-Squares", {data:[{slug:"699-Falling-Squares"}],fetch:{},mutations:void 0});

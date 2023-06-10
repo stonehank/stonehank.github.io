@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/143-Reorder-List", {data:[{slug:"143-Reorder-List"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/692-Top-K-Frequent-Words", {data:[{slug:"692-Top-K-Frequent-Words"}],fetch:{},mutations:void 0});

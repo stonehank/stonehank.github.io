@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%A0%86%EF%BC%88%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97%EF%BC%89", {data:[{slug:"堆（优先队列）"}],fetch:{},mutations:void 0});

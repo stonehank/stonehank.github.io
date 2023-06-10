@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/749-Contain-Virus", {data:[{slug:"749-Contain-Virus"}],fetch:{},mutations:void 0});

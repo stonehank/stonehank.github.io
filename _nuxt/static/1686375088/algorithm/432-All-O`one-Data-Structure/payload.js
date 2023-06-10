@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/432-All-O%60one-Data-Structure", {data:[{slug:"432-All-O`one-Data-Structure"}],fetch:{},mutations:void 0});

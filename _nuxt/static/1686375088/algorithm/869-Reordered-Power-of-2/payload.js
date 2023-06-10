@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/869-Reordered-Power-of-2", {data:[{slug:"869-Reordered-Power-of-2"}],fetch:{},mutations:void 0});

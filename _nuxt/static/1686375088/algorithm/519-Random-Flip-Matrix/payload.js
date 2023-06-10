@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/519-Random-Flip-Matrix", {data:[{slug:"519-Random-Flip-Matrix"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/842-Split-Array-into-Fibonacci-Sequence", {data:[{slug:"842-Split-Array-into-Fibonacci-Sequence"}],fetch:{},mutations:void 0});

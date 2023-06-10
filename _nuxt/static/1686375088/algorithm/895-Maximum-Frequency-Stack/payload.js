@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/895-Maximum-Frequency-Stack", {data:[{slug:"895-Maximum-Frequency-Stack"}],fetch:{},mutations:void 0});

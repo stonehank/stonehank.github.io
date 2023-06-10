@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/css", {data:[{slug:"css"}],fetch:{},mutations:void 0});

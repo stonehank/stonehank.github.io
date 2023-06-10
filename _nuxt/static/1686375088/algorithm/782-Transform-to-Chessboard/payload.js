@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/782-Transform-to-Chessboard", {data:[{slug:"782-Transform-to-Chessboard"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/858-Mirror-Reflection", {data:[{slug:"858-Mirror-Reflection"}],fetch:{},mutations:void 0});

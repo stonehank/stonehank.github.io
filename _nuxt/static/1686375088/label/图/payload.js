@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%9B%BE", {data:[{slug:"图"}],fetch:{},mutations:void 0});

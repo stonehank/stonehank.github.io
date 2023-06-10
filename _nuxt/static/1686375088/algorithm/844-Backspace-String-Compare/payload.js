@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/844-Backspace-String-Compare", {data:[{slug:"844-Backspace-String-Compare"}],fetch:{},mutations:void 0});

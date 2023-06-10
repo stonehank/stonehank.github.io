@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/798-Smallest-Rotation-with-Highest-Score", {data:[{slug:"798-Smallest-Rotation-with-Highest-Score"}],fetch:{},mutations:void 0});

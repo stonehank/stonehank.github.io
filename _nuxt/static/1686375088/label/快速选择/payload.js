@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%BF%AB%E9%80%9F%E9%80%89%E6%8B%A9", {data:[{slug:"快速选择"}],fetch:{},mutations:void 0});

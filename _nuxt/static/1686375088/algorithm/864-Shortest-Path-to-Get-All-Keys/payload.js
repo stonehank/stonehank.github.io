@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/864-Shortest-Path-to-Get-All-Keys", {data:[{slug:"864-Shortest-Path-to-Get-All-Keys"}],fetch:{},mutations:void 0});

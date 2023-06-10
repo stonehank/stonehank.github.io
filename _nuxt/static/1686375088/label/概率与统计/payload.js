@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%A6%82%E7%8E%87%E4%B8%8E%E7%BB%9F%E8%AE%A1", {data:[{slug:"概率与统计"}],fetch:{},mutations:void 0});

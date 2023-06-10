@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/622-Design-Circular-Queue", {data:[{slug:"622-Design-Circular-Queue"}],fetch:{},mutations:void 0});

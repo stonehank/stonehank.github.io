@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6", {data:[{slug:"组合数学"}],fetch:{},mutations:void 0});

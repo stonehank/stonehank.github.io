@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%B9%B6%E6%9F%A5%E9%9B%86", {data:[{slug:"并查集"}],fetch:{},mutations:void 0});

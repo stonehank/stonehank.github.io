@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E8%AE%BE%E8%AE%A1", {data:[{slug:"设计"}],fetch:{},mutations:void 0});

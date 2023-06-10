@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/98-Validate-Binary-Search-Tree", {data:[{slug:"98-Validate-Binary-Search-Tree"}],fetch:{},mutations:void 0});

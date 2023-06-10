@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%BB%9A%E5%8A%A8%E5%93%88%E5%B8%8C", {data:[{slug:"滚动哈希"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/540-Single-Element-in-a-Sorted-Array", {data:[{slug:"540-Single-Element-in-a-Sorted-Array"}],fetch:{},mutations:void 0});

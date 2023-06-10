@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/949-Largest-Time-for-Given-Digits", {data:[{slug:"949-Largest-Time-for-Given-Digits"}],fetch:{},mutations:void 0});

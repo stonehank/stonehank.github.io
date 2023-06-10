@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/845-Longest-Mountain-in-Array", {data:[{slug:"845-Longest-Mountain-in-Array"}],fetch:{},mutations:void 0});

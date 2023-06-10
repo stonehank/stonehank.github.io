@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/23-Merge-k-Sorted-Lists", {data:[{slug:"23-Merge-k-Sorted-Lists"}],fetch:{},mutations:void 0});

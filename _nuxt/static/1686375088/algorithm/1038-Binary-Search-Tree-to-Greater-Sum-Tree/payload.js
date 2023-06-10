@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1038-Binary-Search-Tree-to-Greater-Sum-Tree", {data:[{slug:"1038-Binary-Search-Tree-to-Greater-Sum-Tree"}],fetch:{},mutations:void 0});

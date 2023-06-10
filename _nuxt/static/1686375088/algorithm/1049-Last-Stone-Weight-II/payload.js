@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1049-Last-Stone-Weight-II", {data:[{slug:"1049-Last-Stone-Weight-II"}],fetch:{},mutations:void 0});

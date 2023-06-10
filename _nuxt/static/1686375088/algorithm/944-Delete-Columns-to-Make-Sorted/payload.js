@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/944-Delete-Columns-to-Make-Sorted", {data:[{slug:"944-Delete-Columns-to-Make-Sorted"}],fetch:{},mutations:void 0});

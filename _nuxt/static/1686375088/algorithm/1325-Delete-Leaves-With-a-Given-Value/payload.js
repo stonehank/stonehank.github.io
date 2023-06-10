@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1325-Delete-Leaves-With-a-Given-Value", {data:[{slug:"1325-Delete-Leaves-With-a-Given-Value"}],fetch:{},mutations:void 0});

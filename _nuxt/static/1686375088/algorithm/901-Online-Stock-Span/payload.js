@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/901-Online-Stock-Span", {data:[{slug:"901-Online-Stock-Span"}],fetch:{},mutations:void 0});

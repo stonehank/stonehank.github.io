@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/graphql", {data:[{slug:"graphql"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/720-Longest-Word-in-Dictionary", {data:[{slug:"720-Longest-Word-in-Dictionary"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/382-Linked-List-Random-Node", {data:[{slug:"382-Linked-List-Random-Node"}],fetch:{},mutations:void 0});

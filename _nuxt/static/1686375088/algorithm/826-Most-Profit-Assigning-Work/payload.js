@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/826-Most-Profit-Assigning-Work", {data:[{slug:"826-Most-Profit-Assigning-Work"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/329-Longest-Increasing-Path-in-a-Matrix", {data:[{slug:"329-Longest-Increasing-Path-in-a-Matrix"}],fetch:{},mutations:void 0});

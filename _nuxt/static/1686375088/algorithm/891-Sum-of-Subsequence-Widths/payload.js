@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/891-Sum-of-Subsequence-Widths", {data:[{slug:"891-Sum-of-Subsequence-Widths"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/682-Baseball-Game", {data:[{slug:"682-Baseball-Game"}],fetch:{},mutations:void 0});

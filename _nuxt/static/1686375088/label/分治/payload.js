@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%88%86%E6%B2%BB", {data:[{slug:"分治"}],fetch:{},mutations:void 0});

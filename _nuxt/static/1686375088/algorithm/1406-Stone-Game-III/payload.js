@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1406-Stone-Game-III", {data:[{slug:"1406-Stone-Game-III"}],fetch:{},mutations:void 0});

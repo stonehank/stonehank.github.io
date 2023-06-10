@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/440-K-th-Smallest-in-Lexicographical-Order", {data:[{slug:"440-K-th-Smallest-in-Lexicographical-Order"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1071-Greatest-Common-Divisor-of-Strings", {data:[{slug:"1071-Greatest-Common-Divisor-of-Strings"}],fetch:{},mutations:void 0});

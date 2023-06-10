@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E8%B4%AA%E5%BF%83", {data:[{slug:"贪心"}],fetch:{},mutations:void 0});

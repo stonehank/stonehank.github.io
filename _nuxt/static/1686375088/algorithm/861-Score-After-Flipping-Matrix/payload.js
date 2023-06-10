@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/861-Score-After-Flipping-Matrix", {data:[{slug:"861-Score-After-Flipping-Matrix"}],fetch:{},mutations:void 0});

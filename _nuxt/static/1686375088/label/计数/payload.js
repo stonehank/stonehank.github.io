@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E8%AE%A1%E6%95%B0", {data:[{slug:"计数"}],fetch:{},mutations:void 0});

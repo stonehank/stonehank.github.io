@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/892-Surface-Area-of-3D-Shapes", {data:[{slug:"892-Surface-Area-of-3D-Shapes"}],fetch:{},mutations:void 0});

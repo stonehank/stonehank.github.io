@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/384-Shuffle-an-Array", {data:[{slug:"384-Shuffle-an-Array"}],fetch:{},mutations:void 0});

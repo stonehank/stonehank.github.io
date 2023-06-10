@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E4%BD%8D%E8%BF%90%E7%AE%97", {data:[{slug:"位运算"}],fetch:{},mutations:void 0});

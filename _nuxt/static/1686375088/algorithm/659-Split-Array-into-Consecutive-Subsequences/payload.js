@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/659-Split-Array-into-Consecutive-Subsequences", {data:[{slug:"659-Split-Array-into-Consecutive-Subsequences"}],fetch:{},mutations:void 0});

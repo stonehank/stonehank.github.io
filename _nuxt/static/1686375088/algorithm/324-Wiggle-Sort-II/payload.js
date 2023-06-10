@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/324-Wiggle-Sort-II", {data:[{slug:"324-Wiggle-Sort-II"}],fetch:{},mutations:void 0});

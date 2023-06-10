@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/480-Sliding-Window-Median", {data:[{slug:"480-Sliding-Window-Median"}],fetch:{},mutations:void 0});

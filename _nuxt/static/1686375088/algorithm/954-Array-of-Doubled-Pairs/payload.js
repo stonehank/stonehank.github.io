@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/954-Array-of-Doubled-Pairs", {data:[{slug:"954-Array-of-Doubled-Pairs"}],fetch:{},mutations:void 0});

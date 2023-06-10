@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/825-Friends-Of-Appropriate-Ages", {data:[{slug:"825-Friends-Of-Appropriate-Ages"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/992-Subarrays-with-K-Different-Integers", {data:[{slug:"992-Subarrays-with-K-Different-Integers"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/648-Replace-Words", {data:[{slug:"648-Replace-Words"}],fetch:{},mutations:void 0});

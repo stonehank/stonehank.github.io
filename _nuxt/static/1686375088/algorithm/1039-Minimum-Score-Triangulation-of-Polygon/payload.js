@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1039-Minimum-Score-Triangulation-of-Polygon", {data:[{slug:"1039-Minimum-Score-Triangulation-of-Polygon"}],fetch:{},mutations:void 0});

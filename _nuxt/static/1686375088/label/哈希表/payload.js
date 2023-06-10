@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%93%88%E5%B8%8C%E8%A1%A8", {data:[{slug:"哈希表"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%8B%92%E7%BB%9D%E9%87%87%E6%A0%B7", {data:[{slug:"拒绝采样"}],fetch:{},mutations:void 0});

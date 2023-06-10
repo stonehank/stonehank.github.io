@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/841-Keys-and-Rooms", {data:[{slug:"841-Keys-and-Rooms"}],fetch:{},mutations:void 0});

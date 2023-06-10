@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/745-Prefix-and-Suffix-Search", {data:[{slug:"745-Prefix-and-Suffix-Search"}],fetch:{},mutations:void 0});

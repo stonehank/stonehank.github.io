@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E8%84%91%E7%AD%8B%E6%80%A5%E8%BD%AC%E5%BC%AF", {data:[{slug:"脑筋急转弯"}],fetch:{},mutations:void 0});

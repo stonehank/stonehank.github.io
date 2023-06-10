@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/401-Binary-Watch", {data:[{slug:"401-Binary-Watch"}],fetch:{},mutations:void 0});

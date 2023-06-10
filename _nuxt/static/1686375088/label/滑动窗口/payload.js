@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3", {data:[{slug:"滑动窗口"}],fetch:{},mutations:void 0});

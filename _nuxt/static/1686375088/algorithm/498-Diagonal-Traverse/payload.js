@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/498-Diagonal-Traverse", {data:[{slug:"498-Diagonal-Traverse"}],fetch:{},mutations:void 0});

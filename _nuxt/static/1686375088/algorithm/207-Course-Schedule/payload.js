@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/207-Course-Schedule", {data:[{slug:"207-Course-Schedule"}],fetch:{},mutations:void 0});

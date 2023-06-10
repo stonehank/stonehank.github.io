@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/canvas", {data:[{slug:"canvas"}],fetch:{},mutations:void 0});

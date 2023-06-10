@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/817-Linked-List-Components", {data:[{slug:"817-Linked-List-Components"}],fetch:{},mutations:void 0});

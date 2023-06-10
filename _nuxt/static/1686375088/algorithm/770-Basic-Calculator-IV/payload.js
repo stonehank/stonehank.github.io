@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/770-Basic-Calculator-IV", {data:[{slug:"770-Basic-Calculator-IV"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%8F%8C%E6%8C%87%E9%92%88", {data:[{slug:"双指针"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/68-Text-Justification", {data:[{slug:"68-Text-Justification"}],fetch:{},mutations:void 0});

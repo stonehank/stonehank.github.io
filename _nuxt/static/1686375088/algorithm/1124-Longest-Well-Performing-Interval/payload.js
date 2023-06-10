@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1124-Longest-Well-Performing-Interval", {data:[{slug:"1124-Longest-Well-Performing-Interval"}],fetch:{},mutations:void 0});

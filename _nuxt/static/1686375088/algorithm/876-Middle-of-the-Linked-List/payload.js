@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/876-Middle-of-the-Linked-List", {data:[{slug:"876-Middle-of-the-Linked-List"}],fetch:{},mutations:void 0});

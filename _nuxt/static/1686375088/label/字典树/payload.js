@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%AD%97%E5%85%B8%E6%A0%91", {data:[{slug:"字典树"}],fetch:{},mutations:void 0});

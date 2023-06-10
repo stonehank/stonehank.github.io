@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/424-Longest-Repeating-Character-Replacement", {data:[{slug:"424-Longest-Repeating-Character-Replacement"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%8D%95%E8%B0%83%E6%A0%88", {data:[{slug:"单调栈"}],fetch:{},mutations:void 0});

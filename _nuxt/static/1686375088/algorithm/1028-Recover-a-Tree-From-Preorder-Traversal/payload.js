@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1028-Recover-a-Tree-From-Preorder-Traversal", {data:[{slug:"1028-Recover-a-Tree-From-Preorder-Traversal"}],fetch:{},mutations:void 0});

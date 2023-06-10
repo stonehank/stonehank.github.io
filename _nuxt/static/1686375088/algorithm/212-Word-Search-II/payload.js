@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/212-Word-Search-II", {data:[{slug:"212-Word-Search-II"}],fetch:{},mutations:void 0});

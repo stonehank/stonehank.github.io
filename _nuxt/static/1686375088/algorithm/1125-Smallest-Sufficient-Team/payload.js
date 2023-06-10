@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1125-Smallest-Sufficient-Team", {data:[{slug:"1125-Smallest-Sufficient-Team"}],fetch:{},mutations:void 0});

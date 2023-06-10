@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/promise", {data:[{slug:"promise"}],fetch:{},mutations:void 0});

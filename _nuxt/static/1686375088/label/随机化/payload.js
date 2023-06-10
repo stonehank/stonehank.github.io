@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E9%9A%8F%E6%9C%BA%E5%8C%96", {data:[{slug:"随机化"}],fetch:{},mutations:void 0});

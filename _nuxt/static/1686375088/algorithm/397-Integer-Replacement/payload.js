@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/397-Integer-Replacement", {data:[{slug:"397-Integer-Replacement"}],fetch:{},mutations:void 0});

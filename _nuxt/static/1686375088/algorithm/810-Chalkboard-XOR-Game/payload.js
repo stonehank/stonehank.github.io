@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/810-Chalkboard-XOR-Game", {data:[{slug:"810-Chalkboard-XOR-Game"}],fetch:{},mutations:void 0});

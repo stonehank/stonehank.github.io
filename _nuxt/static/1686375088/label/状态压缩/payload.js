@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9", {data:[{slug:"状态压缩"}],fetch:{},mutations:void 0});

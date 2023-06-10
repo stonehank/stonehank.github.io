@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/946-Validate-Stack-Sequences", {data:[{slug:"946-Validate-Stack-Sequences"}],fetch:{},mutations:void 0});

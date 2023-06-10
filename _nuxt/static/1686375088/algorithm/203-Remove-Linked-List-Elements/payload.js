@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/203-Remove-Linked-List-Elements", {data:[{slug:"203-Remove-Linked-List-Elements"}],fetch:{},mutations:void 0});

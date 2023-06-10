@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/525-Contiguous-Array", {data:[{slug:"525-Contiguous-Array"}],fetch:{},mutations:void 0});

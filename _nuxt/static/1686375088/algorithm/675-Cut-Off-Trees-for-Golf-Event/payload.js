@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/675-Cut-Off-Trees-for-Golf-Event", {data:[{slug:"675-Cut-Off-Trees-for-Golf-Event"}],fetch:{},mutations:void 0});

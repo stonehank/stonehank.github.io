@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84", {data:[{slug:"后缀数组"}],fetch:{},mutations:void 0});

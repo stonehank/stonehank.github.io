@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/96-Unique-Binary-Search-Trees", {data:[{slug:"96-Unique-Binary-Search-Trees"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/948-Bag-of-Tokens", {data:[{slug:"948-Bag-of-Tokens"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/972-Equal-Rational-Numbers", {data:[{slug:"972-Equal-Rational-Numbers"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/webpack", {data:[{slug:"webpack"}],fetch:{},mutations:void 0});

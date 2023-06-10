@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/827-Making-A-Large-Island", {data:[{slug:"827-Making-A-Large-Island"}],fetch:{},mutations:void 0});

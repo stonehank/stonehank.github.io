@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2", {data:[{slug:"广度优先搜索"}],fetch:{},mutations:void 0});

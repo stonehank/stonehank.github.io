@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%AC%A7%E6%8B%89%E5%9B%9E%E8%B7%AF", {data:[{slug:"欧拉回路"}],fetch:{},mutations:void 0});

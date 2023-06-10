@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/936-Stamping-The-Sequence", {data:[{slug:"936-Stamping-The-Sequence"}],fetch:{},mutations:void 0});

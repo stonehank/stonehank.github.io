@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/router", {data:[{slug:"router"}],fetch:{},mutations:void 0});

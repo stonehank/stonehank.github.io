@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/372-Super-Pow", {data:[{slug:"372-Super-Pow"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/299-Bulls-and-Cows", {data:[{slug:"299-Bulls-and-Cows"}],fetch:{},mutations:void 0});

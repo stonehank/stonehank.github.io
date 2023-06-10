@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/503-Next-Greater-Element-II", {data:[{slug:"503-Next-Greater-Element-II"}],fetch:{},mutations:void 0});

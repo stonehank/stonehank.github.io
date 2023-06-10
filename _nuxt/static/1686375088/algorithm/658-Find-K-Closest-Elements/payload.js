@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/658-Find-K-Closest-Elements", {data:[{slug:"658-Find-K-Closest-Elements"}],fetch:{},mutations:void 0});

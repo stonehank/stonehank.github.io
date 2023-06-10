@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/860-Lemonade-Change", {data:[{slug:"860-Lemonade-Change"}],fetch:{},mutations:void 0});

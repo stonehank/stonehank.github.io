@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/473-Matchsticks-to-Square", {data:[{slug:"473-Matchsticks-to-Square"}],fetch:{},mutations:void 0});

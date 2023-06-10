@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/241-Different-Ways-to-Add-Parentheses", {data:[{slug:"241-Different-Ways-to-Add-Parentheses"}],fetch:{},mutations:void 0});

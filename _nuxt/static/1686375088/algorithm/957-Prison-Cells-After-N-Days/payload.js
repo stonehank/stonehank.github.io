@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/957-Prison-Cells-After-N-Days", {data:[{slug:"957-Prison-Cells-After-N-Days"}],fetch:{},mutations:void 0});

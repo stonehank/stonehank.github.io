@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/821-Shortest-Distance-to-a-Character", {data:[{slug:"821-Shortest-Distance-to-a-Character"}],fetch:{},mutations:void 0});

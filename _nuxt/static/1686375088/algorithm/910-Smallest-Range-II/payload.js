@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/910-Smallest-Range-II", {data:[{slug:"910-Smallest-Range-II"}],fetch:{},mutations:void 0});

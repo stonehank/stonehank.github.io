@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/526-Beautiful-Arrangement", {data:[{slug:"526-Beautiful-Arrangement"}],fetch:{},mutations:void 0});

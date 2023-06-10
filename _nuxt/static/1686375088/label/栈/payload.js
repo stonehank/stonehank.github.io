@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%A0%88", {data:[{slug:"栈"}],fetch:{},mutations:void 0});

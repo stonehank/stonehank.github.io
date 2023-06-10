@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/289-Game-of-Life", {data:[{slug:"289-Game-of-Life"}],fetch:{},mutations:void 0});

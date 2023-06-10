@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/204-Count-Primes", {data:[{slug:"204-Count-Primes"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/402-Remove-K-Digits", {data:[{slug:"402-Remove-K-Digits"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/779-K-th-Symbol-in-Grammar", {data:[{slug:"779-K-th-Symbol-in-Grammar"}],fetch:{},mutations:void 0});

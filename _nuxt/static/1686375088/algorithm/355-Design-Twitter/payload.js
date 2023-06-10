@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/355-Design-Twitter", {data:[{slug:"355-Design-Twitter"}],fetch:{},mutations:void 0});

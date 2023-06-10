@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/886-Possible-Bipartition", {data:[{slug:"886-Possible-Bipartition"}],fetch:{},mutations:void 0});

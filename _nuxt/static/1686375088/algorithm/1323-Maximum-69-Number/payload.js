@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1323-Maximum-69-Number", {data:[{slug:"1323-Maximum-69-Number"}],fetch:{},mutations:void 0});

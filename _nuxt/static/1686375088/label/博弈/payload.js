@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%8D%9A%E5%BC%88", {data:[{slug:"博弈"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1029-Two-City-Scheduling", {data:[{slug:"1029-Two-City-Scheduling"}],fetch:{},mutations:void 0});

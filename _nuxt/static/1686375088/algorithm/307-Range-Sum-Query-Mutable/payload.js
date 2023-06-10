@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/307-Range-Sum-Query-Mutable", {data:[{slug:"307-Range-Sum-Query-Mutable"}],fetch:{},mutations:void 0});

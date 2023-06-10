@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1104-Path-In-Zigzag-Labelled-Binary-Tree", {data:[{slug:"1104-Path-In-Zigzag-Labelled-Binary-Tree"}],fetch:{},mutations:void 0});

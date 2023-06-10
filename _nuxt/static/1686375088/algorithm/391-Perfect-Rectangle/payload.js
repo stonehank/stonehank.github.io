@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/391-Perfect-Rectangle", {data:[{slug:"391-Perfect-Rectangle"}],fetch:{},mutations:void 0});

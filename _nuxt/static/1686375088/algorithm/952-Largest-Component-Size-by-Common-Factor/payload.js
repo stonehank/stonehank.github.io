@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/952-Largest-Component-Size-by-Common-Factor", {data:[{slug:"952-Largest-Component-Size-by-Common-Factor"}],fetch:{},mutations:void 0});

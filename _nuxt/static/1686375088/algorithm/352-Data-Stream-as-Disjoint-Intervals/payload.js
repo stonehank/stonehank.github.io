@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/352-Data-Stream-as-Disjoint-Intervals", {data:[{slug:"352-Data-Stream-as-Disjoint-Intervals"}],fetch:{},mutations:void 0});

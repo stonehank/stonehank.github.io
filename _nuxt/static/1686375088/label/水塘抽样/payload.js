@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%B0%B4%E5%A1%98%E6%8A%BD%E6%A0%B7", {data:[{slug:"水塘抽样"}],fetch:{},mutations:void 0});

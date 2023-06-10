@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/460-LFU-Cache", {data:[{slug:"460-LFU-Cache"}],fetch:{},mutations:void 0});

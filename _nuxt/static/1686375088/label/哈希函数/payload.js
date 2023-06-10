@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0", {data:[{slug:"哈希函数"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E6%89%AB%E6%8F%8F%E7%BA%BF", {data:[{slug:"扫描线"}],fetch:{},mutations:void 0});

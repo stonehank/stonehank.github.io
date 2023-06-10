@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1044-Longest-Duplicate-Substring", {data:[{slug:"1044-Longest-Duplicate-Substring"}],fetch:{},mutations:void 0});

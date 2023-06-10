@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1043-Partition-Array-for-Maximum-Sum", {data:[{slug:"1043-Partition-Array-for-Maximum-Sum"}],fetch:{},mutations:void 0});

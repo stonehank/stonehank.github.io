@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/babel", {data:[{slug:"babel"}],fetch:{},mutations:void 0});

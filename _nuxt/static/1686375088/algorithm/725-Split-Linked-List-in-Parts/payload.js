@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/725-Split-Linked-List-in-Parts", {data:[{slug:"725-Split-Linked-List-in-Parts"}],fetch:{},mutations:void 0});

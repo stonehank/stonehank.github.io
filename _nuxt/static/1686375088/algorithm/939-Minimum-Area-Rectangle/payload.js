@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/939-Minimum-Area-Rectangle", {data:[{slug:"939-Minimum-Area-Rectangle"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/739-Daily-Temperatures", {data:[{slug:"739-Daily-Temperatures"}],fetch:{},mutations:void 0});

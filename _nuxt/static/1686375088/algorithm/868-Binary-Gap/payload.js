@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/868-Binary-Gap", {data:[{slug:"868-Binary-Gap"}],fetch:{},mutations:void 0});

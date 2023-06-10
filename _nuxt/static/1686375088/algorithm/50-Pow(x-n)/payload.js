@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/50-Pow(x-n)", {data:[{slug:"50-Pow(x-n)"}],fetch:{},mutations:void 0});

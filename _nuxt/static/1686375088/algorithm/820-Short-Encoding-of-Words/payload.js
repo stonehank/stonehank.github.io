@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/820-Short-Encoding-of-Words", {data:[{slug:"820-Short-Encoding-of-Words"}],fetch:{},mutations:void 0});

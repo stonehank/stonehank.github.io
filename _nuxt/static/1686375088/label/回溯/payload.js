@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/label/%E5%9B%9E%E6%BA%AF", {data:[{slug:"回溯"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/146-LRU-Cache", {data:[{slug:"146-LRU-Cache"}],fetch:{},mutations:void 0});

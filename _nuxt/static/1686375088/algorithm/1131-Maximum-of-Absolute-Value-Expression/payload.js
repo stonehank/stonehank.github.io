@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/1131-Maximum-of-Absolute-Value-Expression", {data:[{slug:"1131-Maximum-of-Absolute-Value-Expression"}],fetch:{},mutations:void 0});

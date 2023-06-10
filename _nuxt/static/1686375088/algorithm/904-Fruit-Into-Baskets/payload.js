@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/algorithm/904-Fruit-Into-Baskets", {data:[{slug:"904-Fruit-Into-Baskets"}],fetch:{},mutations:void 0});
